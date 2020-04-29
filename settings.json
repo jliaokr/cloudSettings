@@ -1,1 +1,6 @@
-// Empty
+{
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.iconTheme": "vscode-icons",
+    "sync.gist": "",
+    "sync.autoUpload": false
+}
